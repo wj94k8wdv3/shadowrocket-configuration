@@ -1,0 +1,41 @@
+name: update
+
+on:
+  schedule:
+    - cron: "7 4,16 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-ip-lists
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Python version
+        run: python3 --version
+
+      - name: Build lists
+        run: python3 build_lists.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A lists/
+          if git diff --staged --quiet; then
+            echo "Нет изменений, коммит не нужен."
+            exit 0
+          fi
+          git commit -m "auto-update lists $(date -u +%Y-%m-%dT%H:%M)"
+          git pull --rebase origin main
+          git push

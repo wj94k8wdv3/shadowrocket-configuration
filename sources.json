@@ -1,0 +1,102 @@
+{
+  "output_dir": "lists",
+  "lists": [
+    {
+      "name": "analytics",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/Thoseyearsbrian/Aegis/refs/heads/main/rules/BehaviorDomain.list",
+        "manual/analytics.list"
+      ]
+    },
+    {
+      "name": "ipgeolocation",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/main/rules/domains_geo_detect.list",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-ip-geo-detect",
+        "https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/main/rules/domains_ipchecker.list",
+        "manual/ipgeolocation.list"
+      ]
+    },
+    {
+      "name": "botnet",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/Thoseyearsbrian/Aegis/refs/heads/main/rules/Botnet_Block.list"
+      ]
+    },
+    {
+      "name": "malware",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/Thoseyearsbrian/Aegis/refs/heads/main/rules/Malware_IOC_Block.list"
+      ]
+    },
+    {
+      "name": "phishing",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/Thoseyearsbrian/Aegis/refs/heads/main/rules/Phishing_Block.list"
+      ]
+    },
+    {
+      "name": "scam",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/Thoseyearsbrian/Aegis/refs/heads/main/rules/Scam_Block.list"
+      ]
+    },
+    {
+      "name": "ru",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/main/rules/domains_banking.list",
+        "https://raw.githubusercontent.com/tatarinovms/ShadowRocketSimpleConfig/main/lists/rudirect.list",
+        "https://raw.githubusercontent.com/tatarinovms/ShadowRocketSimpleConfig/refs/heads/main/lists/rubanking.list",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/2gis",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/avito",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/beget",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/bitrix",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-bank-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-entertainment-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-forums-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-gov-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-media-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-medicine-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-retail-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/mvideo",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/kinopoisk",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/kaspersky",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/ideco-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/dzen",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/drweb",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/cian",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/cdek",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-travel-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-tech-media-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-education-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-ecommerce-ru",
+        "https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/category-ai-ru",
+        "https://raw.githubusercontent.com/jinzaizhichi/Clash-for-Windows_Rule/refs/heads/main/Rule/VK",
+        "manual/ru.list"
+      ]
+    },
+    {
+      "name": "advertising",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/AdGuard/Advertising/Advertising.txt",
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/AdGuard/BlockHttpDNS/BlockHttpDNS.txt"
+      ]
+    },
+    {
+      "name": "privacy",
+      "description": "",
+      "sources": [
+        "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/AdGuard/Privacy/Privacy.txt"
+      ]
+    }
+  ]
+}
