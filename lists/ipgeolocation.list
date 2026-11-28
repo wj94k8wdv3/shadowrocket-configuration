@@ -360,6 +360,7 @@ DOMAIN-SUFFIX,geoipy.com
 DOMAIN-SUFFIX,geojs.io
 DOMAIN-SUFFIX,geolocation-db.com
 DOMAIN-SUFFIX,geolocation.com
+DOMAIN-SUFFIX,geomyip.com
 DOMAIN-SUFFIX,geoplugin.com
 DOMAIN-SUFFIX,geoplugin.net
 DOMAIN-SUFFIX,get-ipv4.com
@@ -606,6 +607,7 @@ DOMAIN-SUFFIX,ip.spacecom.cc
 DOMAIN-SUFFIX,ip.sy
 DOMAIN-SUFFIX,ip.taobao.com
 DOMAIN-SUFFIX,ip.telecom24.link
+DOMAIN-SUFFIX,ip.teoh.io
 DOMAIN-SUFFIX,ip.tl
 DOMAIN-SUFFIX,ip.tyk.nu
 DOMAIN-SUFFIX,ip.urls.is
@@ -1052,6 +1054,7 @@ DOMAIN-SUFFIX,ipsee.io
 DOMAIN-SUFFIX,ipsee.ru
 DOMAIN-SUFFIX,ipshow.de
 DOMAIN-SUFFIX,ipshow.me
+DOMAIN-SUFFIX,ipshu.com
 DOMAIN-SUFFIX,ipsimple.org
 DOMAIN-SUFFIX,ipsnapshot.com
 DOMAIN-SUFFIX,ipsorgu.com
@@ -1116,8 +1119,10 @@ DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,ipwhitelist.dev
 DOMAIN-SUFFIX,ipwho.am
 DOMAIN-SUFFIX,ipwho.de
+DOMAIN-SUFFIX,ipwho.io
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,ipwho.net
+DOMAIN-SUFFIX,ipwho.org
 DOMAIN-SUFFIX,ipwhois.app
 DOMAIN-SUFFIX,ipwhois.info
 DOMAIN-SUFFIX,ipwhois.io
@@ -1302,9 +1307,11 @@ DOMAIN-SUFFIX,myaddress.net
 DOMAIN-SUFFIX,myaddress.network
 DOMAIN-SUFFIX,myexternalip.com
 DOMAIN-SUFFIX,myip.ae
+DOMAIN-SUFFIX,myip.ai
 DOMAIN-SUFFIX,myip.al
 DOMAIN-SUFFIX,myip.at
 DOMAIN-SUFFIX,myip.baze.si
+DOMAIN-SUFFIX,myip.bg
 DOMAIN-SUFFIX,myip.by
 DOMAIN-SUFFIX,myip.casa
 DOMAIN-SUFFIX,myip.ch
@@ -1312,6 +1319,7 @@ DOMAIN-SUFFIX,myip.cl
 DOMAIN-SUFFIX,myip.cloud
 DOMAIN-SUFFIX,myip.co.il
 DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,myip.com.au
 DOMAIN-SUFFIX,myip.com.br
 DOMAIN-SUFFIX,myip.com.tw
 DOMAIN-SUFFIX,myip.com.ua
@@ -1326,6 +1334,7 @@ DOMAIN-SUFFIX,myip.et
 DOMAIN-SUFFIX,myip.eu
 DOMAIN-SUFFIX,myip.expert
 DOMAIN-SUFFIX,myip.fi
+DOMAIN-SUFFIX,myip.foo
 DOMAIN-SUFFIX,myip.ge
 DOMAIN-SUFFIX,myip.happ.su
 DOMAIN-SUFFIX,myip.help
@@ -1354,6 +1363,7 @@ DOMAIN-SUFFIX,myip.mysau.com.au
 DOMAIN-SUFFIX,myip.network
 DOMAIN-SUFFIX,myip.ng
 DOMAIN-SUFFIX,myip.nl
+DOMAIN-SUFFIX,myip.now
 DOMAIN-SUFFIX,myip.omidx.org
 DOMAIN-SUFFIX,myip.one
 DOMAIN-SUFFIX,myip.online.com.kz
@@ -1369,12 +1379,15 @@ DOMAIN-SUFFIX,myip.serverplus.tw
 DOMAIN-SUFFIX,myip.sg
 DOMAIN-SUFFIX,myip.sh
 DOMAIN-SUFFIX,myip.sk
+DOMAIN-SUFFIX,myip.tech
 DOMAIN-SUFFIX,myip.telespex.com
 DOMAIN-SUFFIX,myip.tf
 DOMAIN-SUFFIX,myip.top
 DOMAIN-SUFFIX,myip.uz
 DOMAIN-SUFFIX,myip.valkos.by
 DOMAIN-SUFFIX,myip.vc
+DOMAIN-SUFFIX,myip.world
+DOMAIN-SUFFIX,myip.ws
 DOMAIN-SUFFIX,myip.wtf
 DOMAIN-SUFFIX,myip.yt
 DOMAIN-SUFFIX,myip.zone
@@ -1606,6 +1619,7 @@ DOMAIN-SUFFIX,vpnapi.io
 DOMAIN-SUFFIX,vpndetection.io
 DOMAIN-SUFFIX,vpndetection.net
 DOMAIN-SUFFIX,vpng.net
+DOMAIN-SUFFIX,vpnmentor.com
 DOMAIN-SUFFIX,wanip.at
 DOMAIN-SUFFIX,wanip.be
 DOMAIN-SUFFIX,wanip.cc
@@ -1620,6 +1634,7 @@ DOMAIN-SUFFIX,wasistmeineip.net
 DOMAIN-SUFFIX,watisjeipadres.nl
 DOMAIN-SUFFIX,watismijnipadres.net
 DOMAIN-SUFFIX,watismijnipadres.nl
+DOMAIN-SUFFIX,webbrowsertools.com
 DOMAIN-SUFFIX,webrtcleakshield.org
 DOMAIN-SUFFIX,wgetip.com
 DOMAIN-SUFFIX,wgetip.net
